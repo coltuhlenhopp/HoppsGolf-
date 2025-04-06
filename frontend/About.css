@@ -1,0 +1,36 @@
+.about-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.about-container h1 {
+  color: #ff7300;
+  margin-bottom: 20px;
+}
+
+.about-container h2 {
+  color: #ff7300;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.about-container p {
+  color: #333;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.headshot {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}

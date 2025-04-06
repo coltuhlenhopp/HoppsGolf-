@@ -1,0 +1,20 @@
+.contacts-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .contacts-container h1 {
+    color: #ff7300;
+    margin-bottom: 10px;
+  }
+  
+  .contacts-container p {
+    color: #444;
+    margin-bottom: 20px;
+  }
+  
