@@ -1,0 +1,20 @@
+.admin-buttons {
+    margin-top: 8px;
+  }
+  
+  .admin-buttons button {
+    margin-right: 6px;
+    padding: 6px 10px;
+    background-color: #ff7300;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .admin-buttons button:hover {
+    background-color: #e06600;
+  }
+  
